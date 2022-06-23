@@ -1,6 +1,7 @@
 # Modulo2-2022
-INTEGRANTES
-Aguilera, José
+# Integrantes
+
+Aguilera, José           
 
 rubyaguilera710@gmail.com
 
@@ -15,3 +16,21 @@ lucylopezb1@gmail.com
 Trípoli, Natalia
 
 natalia.a.tripoli@gmail.com
+
+# Materia
+
+Técnicas y Herramientas Modernas 1
+
+# Docentes
+
+Palma, Ricardo R.
+
+ricardo.rpalma@gmail.com
+
+Masera, Gustavo A.
+
+gustavo.masera@gmail.com
+
+Gómez, Alejandro C.
+
+eclesur@gmail.com
