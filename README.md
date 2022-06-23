@@ -1,4 +1,4 @@
-# Módulo2-2022
+# Módulo 2: Introducción a lenguajes de programación de alto nivel (paradigma de objetos)
 # Integrantes
 
 Aguilera, José           
